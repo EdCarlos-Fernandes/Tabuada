@@ -1,5 +1,3 @@
 # Tabuada
 
-Uma tabuada simples utilizando neumorfismo nos botões.
-
-Feita com HTML, CSS e JavaScript simples.
+Descubra uma forma envolvente de explorar a multiplicação! Com uma estética elegante e botões neumórficos intuitivos, você poderá desvendar a tabuada de maneira cativante. Clicando nos botões, mergulhe em um mundo de multiplicação fascinante. Aprender a tabuada nunca foi tão visual e divertido. Explore essa experiência interativa e deixe que a magia dos números se revele diante dos seus olhos.
